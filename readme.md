@@ -26,10 +26,10 @@ Im Folgenden werden nur Wissens/Meinungs-Fragmente aufgelistet, die zur weiteren
        - MaPhIn = Mathe + Physik + Informatik (und vielleicht noch mehr)
        - Alles hängt zusammen und versuche DAS zu verstehen = Denken
 -	Wenn du einen wissenschaftlichen Fakt liest/lernst, dann erforsche die Worte, also die Etymologie:
-       - Vektor: lat. vehere = fahren / Vektor = Fahrer/Träger (Wer/Was fährt von wo nach wo?)
-       - Trigonometrie: Lehre der Dreiecke (meist rechtwinklige Dreiecke=Pythagoras)
+       - _Vektor_: lat. vehere = fahren / Vektor = Fahrer/Träger (Wer/Was fährt von wo nach wo?)
+       - _Trigonometrie_: Lehre der Dreiecke (meist rechtwinklige Dreiecke=Pythagoras)
            - sin/cos/tan sind nichts weiter als Anwendung von rechtwinkligen Dreiecken -> wurde dir das in der Schule so erklärt ;-)?
-       - Infinitesimalrechnung: Rechnen mit dem Unendlichen (Frage dich: Was wird hier unendlich und warum?)
+       - _Infinitesimalrechnung_: Rechnen mit dem Unendlichen (Frage dich: Was wird hier unendlich und warum?)
 -	„Für das Denken ist das Grenzenlose Desselben (desselben Gedanken) die schärfste Grenze.“	
       - Der Gedanke, der immer wiederkehrt und somit unendlich wird (immer und immer wieder), ist die Grenze, die der Denker überschreiten/durchbrechen muss 
       - Denke nicht immer das Gleiche! Stelle es in Frage!
