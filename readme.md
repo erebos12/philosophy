@@ -9,7 +9,7 @@ Im Folgenden werden nur Wissens/Meinungs-Fragmente aufgelistet, die zur weiteren
 -	Brauchbarkeit und Zweckdienlichkeit lassen das Denken schrumpfen
 -	Wo der Verstand NUR rechnet (Wissen anwendet), schrumpft das Denken
 -	Denken heißt, über das Wissen nachdenken, es hinterfragen und erforschen
-o	Nicht NUR das Wissen anwenden, NICHT NUR „RECHNEN“! Nicht gleich die Brauchbarkeit und Zweckdienlichkeit in den Fokus setzen!
+-   Nicht NUR das Wissen anwenden, NICHT NUR „RECHNEN“! Nicht gleich die Brauchbarkeit und Zweckdienlichkeit in den Fokus setzen!
 -	Philosophie ist die Basis der Wissenschaften
 -	Jedes Wissen ist aus einer philosophischen Frage entstanden
 -	Wissenschaften wissen unendlich viel mehr, als dass sie Denken
