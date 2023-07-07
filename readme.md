@@ -1,7 +1,5 @@
 # Was heißt Denken? 
 
-Im Folgenden werden nur Wissens/Meinungs-Fragmente aufgelistet, die zur weiteren Analyse der o.g. Frage verwendet werden:
-
 -	Wissen != Denken
 -	Denken = Philosophieren (Martin Heidegger)
 -	Wissenschaften denken nicht (keine Philosophie)
